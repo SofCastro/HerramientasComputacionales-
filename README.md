@@ -1,2 +1,2 @@
 # HerramientasComputacionales-
-Materiales de los cursos de Herramientas Computacionales, UNAM.
+Materiales y tareas de los cursos de Herramientas Computacionales, UNAM.
